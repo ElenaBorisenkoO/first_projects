@@ -1,0 +1,191 @@
+.wrapper {
+	max-width: 1918px;
+	margin:0 auto;
+}
+
+.header {
+	background-color: #eb5346;
+	font-family: PT Sans;
+	color: #ffffff;
+	font-size:27.95px;
+	font-weight:700;
+	text-align: center;
+	padding: 20px 0;
+}
+
+.cars-holder{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    padding-top: 90px;
+}
+
+.cars-class{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 300px;
+    align-items: center;
+    }
+
+.class-name{
+    background-color: #252e39;
+    width: 210px;
+    font-family: PT Sans;
+    color:  #ffffff;
+    font-size: 21.96px;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+    padding: 7px 0;
+}
+
+.class-image{
+    width: 375px;
+    height: 180px;
+    
+}
+
+
+.class-calc{
+    background-color:#eb5346;
+    width: 314px;
+    height: 32px;
+    font-family: PT Sans;
+    color:  #ffffff;
+    font-size: 21.96px;
+    font-weight: 700;
+    text-align: center;
+    }
+
+.car-details{
+	display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    padding-top: 90px;
+}
+.car-space{
+	display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.car-price{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 0;
+}
+
+.price-block{
+    display: flex;
+    flex-direction: column;
+}
+
+.price{
+    font-family: PT Sans;
+    color:  #eb5346;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: left;
+    margin: 0;
+}
+
+.materials{
+	font-family: PT Sans;
+    color:  #252e39;
+    font-size: 16px;
+    text-align: left;
+    margin: 0;
+}
+
+
+
+.car-call{
+    background-color:#252e39;
+    width: 264px;
+    height: 40px;
+    font-family: PT Sans;
+    color:  #ffffff;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: center;
+} 
+
+.car-tariff{
+
+}
+
+.tariff-list{
+    font-family: PT Sans;
+    color:  #252e39;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    list-style-type: none;
+}
+
+.tariff-partly{
+	padding: 20px;
+	font-family: PT Sans;
+    color:  #252e39;
+	font-size: 14px;
+	list-style-type: none;
+    display:none;
+}
+
+#part{
+	background-color:  #252e39;
+    width: 186px;
+    height: 31px;
+    font-family: PT Sans;
+    color:  #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:left;
+}
+
+.line{
+    border-left: 2px solid #000000;
+    margin-left: 20px;
+    padding-left: 10px;
+    width: 1px;
+    height: 562px;
+}
+
+.list-item{
+   padding: 5px;
+}
+
+.list-item:hover{
+    background-color:  #eb5346;
+    width: 188px;
+    height: 31px;
+}
+
+.arrow{
+	background-color:  #eb5346;
+    width: 32px;
+    height: 24px;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
